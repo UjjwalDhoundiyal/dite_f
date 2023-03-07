@@ -7,7 +7,7 @@
 
 .main
 {
-  background: linear-gradient(#82C3EC,#E5D1FA);
+  
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -61,7 +61,7 @@ body {
   }
   .logo
   {
-    width: 300px;
+    width: 400px;
     height: auto;
     position: relative;
     right: 40px;
@@ -78,7 +78,7 @@ body {
   .container-fluid>.navbar
   {
     position: relative;
-    bottom: 40px;
+    bottom: 70px;
   }
   
   /* Sections */
